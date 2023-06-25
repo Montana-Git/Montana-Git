@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Montana-Git
+- 👀 I’m interested in AI/cybersecurity
+- 🌱 I’m currently learning new Ai Skills
+- 💞️ I’m looking to collaborate on Secure informations From Ai / With Ai itself
+- 📫 How to reach me Montasaay@gmail.com
