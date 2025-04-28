@@ -1,4 +1,4 @@
-# 🌟 Montana-Git 🌟  
+# 🌟 Monta-Git 🌟  
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Self%20Learning%20Developer-blueviolet?style=for-the-badge" alt="Self Learning Developer"/>
@@ -7,7 +7,7 @@
 </div>
 
 ## 👋 About Me
-Hi there! I'm **Montana-Git**, a passionate developer focusing on the intersection of **AI** and **Cybersecurity**. I create innovative solutions using modern technologies while maintaining high security standards.
+Hi there! I'm **Monta-Git**, a passionate developer focusing on the intersection of **AI** and **Cybersecurity**. I create innovative solutions using modern technologies while maintaining high security standards.
 
 ## 🎯 Featured Projects
 
