@@ -1,9 +1,9 @@
 # 🌟 Montana-Git 🌟  
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet?style=for-the-badge" alt="Full Stack Developer"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-blueviolet?style=for-the-badge" alt="Self Learning Developer"/>
   <img src="https://img.shields.io/badge/-AI%20Enthusiast-FF6F61?style=for-the-badge" alt="AI Enthusiast"/>
-  <img src="https://img.shields.io/badge/-Cybersecurity-00897B?style=for-the-badge" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/-Cybersecurity-00897B?style=for-the-badge" alt="Cybersecurity Enthusiast"/>
 </div>
 
 ## 👋 About Me
